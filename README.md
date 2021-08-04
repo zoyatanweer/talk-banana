@@ -1,3 +1,3 @@
-#Banana talk
+**Banana talk**
 
-Hi guys! Check out my app which converts english language into minion language.
+Check out my translator app which converts English into Minion language.
