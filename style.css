@@ -3,6 +3,7 @@ body{
     font-family:'Montserrat', sans-serif;
 }
 h1{
+h1, h2, p{
     background-color:#fee440;
     display:block;
     font-weight:700;
@@ -11,6 +12,15 @@ h1{
     margin:0rem;
     padding:2rem;
     text-align:center;
+}
+h2{
+    font-size:1.5rem;
+    font-weight:600;
+}
+p{
+    font-size:1.3rem;
+    font-weight:400;
+    padding:0.5rem;
 }
 
 .intro{
